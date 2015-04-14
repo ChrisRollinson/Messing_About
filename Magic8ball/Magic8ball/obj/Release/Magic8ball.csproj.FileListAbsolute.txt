@@ -1,0 +1,6 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Magic8ball\Magic8ball\bin\Release\Magic8ball.exe.config
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Magic8ball\Magic8ball\bin\Release\Magic8ball.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Magic8ball\Magic8ball\bin\Release\Magic8ball.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Magic8ball\Magic8ball\obj\Release\Magic8ball.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Magic8ball\Magic8ball\obj\Release\Magic8ball.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\Magic8ball\Magic8ball\obj\Release\Magic8ball.pdb

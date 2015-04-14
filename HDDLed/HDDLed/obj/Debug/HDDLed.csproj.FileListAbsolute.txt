@@ -1,0 +1,8 @@
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\bin\Debug\HDDLed.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\bin\Debug\HDDLed.exe
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\bin\Debug\HDDLed.pdb
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\obj\Debug\HDDLed.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\obj\Debug\HDDLed.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\obj\Debug\HDDLed.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\obj\Debug\HDDLed.exe
+c:\users\chris\documents\visual studio 2013\Projects\HDDLed\HDDLed\obj\Debug\HDDLed.pdb
